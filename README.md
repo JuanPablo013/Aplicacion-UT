@@ -65,6 +65,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
+## Repositories
+
+La aplicación usa un repositorio para traducir las validaciones de Laravel Breeze a español, este es el link del repositorio (https://github.com/MarcoGomesr/laravel-validation-en-espanol)
+seguir las instrucciones para utilizarlo.
+
 ## Author
 
 Este proyecto fue creado por [Juan Pablo Betancourt](https://github.com/JuanPablo013).
